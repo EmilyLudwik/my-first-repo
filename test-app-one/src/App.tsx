@@ -11,7 +11,7 @@ type Person = {
 const person: Person = {
   firstName: "Emily",
   lastName: "Ludwik",
-  age: 28
+  age: 29
 };
 
 
